@@ -1,0 +1,19 @@
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\bin\Debug\MeetingTime.exe.config
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\bin\Debug\MeetingTime.exe
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\bin\Debug\MeetingTime.pdb
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\obj\Debug\MeetingTime.csprojResolveAssemblyReference.cache
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\obj\Debug\MeetingTime.Form1.resources
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\obj\Debug\MeetingTime.Properties.Resources.resources
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\obj\Debug\MeetingTime.csproj.GenerateResource.Cache
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\obj\Debug\MeetingTime.exe
+D:\Oktatas\Erasmus\Gyakorlat7\MeetingTime\MeetingTime\obj\Debug\MeetingTime.pdb
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\bin\Debug\MeetingTime.exe.config
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\bin\Debug\MeetingTime.exe
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\bin\Debug\MeetingTime.pdb
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.Form1.resources
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.Properties.Resources.resources
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.exe
+C:\Users\youss\OneDrive\Desktop\5th Term\Programming3\solution\MeetingTime\MeetingTime\obj\Debug\MeetingTime.pdb
